@@ -7,7 +7,7 @@ description: A specialized service that diagnoses failed API calls and tells AI 
 
 This skill provides a standardized protocol for autonomous AI agents to diagnose failed HTTP requests, clarify out-of-order workflow execution, and dynamically retrieve precise recovery plans and retry configurations.
 
-**Base URL**: `https://<your-hosted-arp-endpoint>` (e.g. `http://localhost:8000` for local run)
+**Base URL**: `https://recoveryai-production.up.railway.app`
 
 ---
 
